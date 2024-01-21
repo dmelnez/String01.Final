@@ -1,0 +1,14 @@
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\bin\Debug\net7.0\Ejercicio01.String.Programacion.exe
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\bin\Debug\net7.0\Ejercicio01.String.Programacion.deps.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\bin\Debug\net7.0\Ejercicio01.String.Programacion.runtimeconfig.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\bin\Debug\net7.0\Ejercicio01.String.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\bin\Debug\net7.0\Ejercicio01.String.Programacion.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.AssemblyInfoInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.AssemblyInfo.cs
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.csproj.CoreCompileInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\refint\Ejercicio01.String.Programacion.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\Ejercicio01.String.Programacion.genruntimeconfig.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01.String.Programacion\Ejercicio01.String.Programacion\obj\Debug\net7.0\ref\Ejercicio01.String.Programacion.dll
